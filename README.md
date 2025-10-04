@@ -16,7 +16,7 @@ _Note: All utilities are still in active development with lots of bugs_
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/shaunroselt/Delphi-Programming-Helper/master/LICENSE)
-[![wakatime](https://wakatime.com/badge/github/shaunroselt/Delphi-Programming-Helper.svg)](https://wakatime.com/badge/github/shaunroselt/Delphi-Programming-Helper)
+[![wakatime](https://wakatime.com/badge/user/05293dda-97ed-4904-b0c4-a379ac00b6a4/project/2d59b64d-bbb4-4438-adf0-64884d3a524a.svg)](https://wakatime.com/badge/user/05293dda-97ed-4904-b0c4-a379ac00b6a4/project/2d59b64d-bbb4-4438-adf0-64884d3a524a)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/ShaunRoselt/Delphi-Programming-Helper/total?label=Github%20Downloads)
 
