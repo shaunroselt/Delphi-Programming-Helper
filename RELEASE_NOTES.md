@@ -8,6 +8,7 @@
   Cross-Platform Utilities App for Delphi Developers.
 </h2>
 
+
 ## Release Notes
 * [Version 1.0.0 Beta (08/02/2014)](#version-100-beta-08022014)
 * [Version 1.0.0 (03/04/2014)](#version-100-03042014)
@@ -28,10 +29,10 @@
 * [Version 3.6.2 (01/03/2015)](#version-362-01032015)
 * [Version 3.6.3 (07/03/2015)](#version-363-07032015)
 * [Version 3.6.4 (01/04/2015)](#version-364-01042015)
-* [Version 3.7.0 (15/03/2016)](#version-370-15032016)
-* [Version 3.8.0](#version-380)
-* [Version 3.8.1](#version-381)
-* [Version 3.8.2](#version-382)
+* [Version 3.7.0 (15/02/2016)](#version-370-15022016)
+* [Version 3.8.0 (27/02/2016)](#version-380-27022016)
+* [Version 3.8.1 (07/03/2016)](#version-381-07032016)
+* [Version 3.8.2 (15/03/2016)](#version-382-15032016)
 * [Version 3.8.3](#version-383)
 * [Version 3.8.4](#version-384)
 * [Version 3.9.0](#version-390)
@@ -265,12 +266,14 @@
 
 
 ## Version 3.7.0 (15/03/2016)
+![Delphi Programming Helper - Version 3.7.0 (15/03/2016)](https://github.com/user-attachments/assets/489e5164-8a6c-4b80-b3b0-d55bf1d8b566)
 - We updated the settings. Users can now use the Speech Reading functions in Settings.
 - We added new Code Examples.
 - We fixed a few bugs and improved some of our code.
 
 
-## Version 3.8.0
+## Version 3.8.0 (27/02/2016)
+![Delphi Programming Helper - Version 3.8.0 (27/02/2016)](https://github.com/user-attachments/assets/a5f3985b-2533-4589-bddd-ba383930eb1d)
 - Improved GUI and Interface.
 - All categories have been updated.
 - We added a code editor within the app. Press F5 to open it.
@@ -300,7 +303,8 @@
 - We have completely removed the ability to change the Color Themes.
 
 
-## Version 3.8.1
+## Version 3.8.1 (07/03/2016)
+![Delphi Programming Helper - Version 3.8.1 (07/03/2016)](https://github.com/user-attachments/assets/c5f05280-f836-46ab-88c7-b5d270922fe8)
 - Fixed a References category error.
 - Fixed a Test Papers category error.
 - We changed the cursor to crHandPoint for buttons which were missing this.
@@ -309,7 +313,8 @@
 - Added a Back button for easier navigation through the categories.
 
 
-## Version 3.8.2
+## Version 3.8.2 (15/03/2016)
+![Delphi Programming Helper - 3.8.2 (15/03/2016)](https://github.com/user-attachments/assets/18ea5bb7-85ad-4796-b7db-86a6cf16a294)
 - Fixed a versioning error.
 - Fixed a spelling error.
 - We changed the cursor to crHandPoint for buttons which were missing this.
